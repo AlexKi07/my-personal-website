@@ -1,0 +1,38 @@
+h1 {
+    color: blue;
+    text-align: centre;
+    text-decoration: underline;
+}
+p {
+    color: #666;
+    line-height: 1.6;
+}
+
+/* ul {
+list-style: none; 
+} */
+img {
+    width: 150px;
+    border-radius: 150px;
+    margin-top: 5px;
+    height: auto;
+    
+}
+
+nav a {
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+nav a:hover {
+    text-decoration: underline;
+    color: blue;
+}
+
+#Contacts{
+text-decoration: none;
+margin: 0 20px;
+font-size: 18px;
+}
